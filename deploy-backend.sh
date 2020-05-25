@@ -47,6 +47,7 @@ function setup_app() {
     setup_env
     # Install required packages
     echo ======= Installing required packages ========
+    echo ============== aaaaa
     pip install -r requirements.txt
 
 }
